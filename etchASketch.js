@@ -24,3 +24,5 @@ function userInput() {
 
     })
 }
+
+userInput();
