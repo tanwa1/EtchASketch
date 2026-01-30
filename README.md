@@ -1,2 +1,1 @@
-# EtchAScetch.github.io
 # EtchASketch
