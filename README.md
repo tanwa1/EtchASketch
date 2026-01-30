@@ -27,8 +27,3 @@ An interactive web-based Etch A Sketch app built with HTML, CSS, and JavaScript.
 - Change grid size by entering a different number when prompted.
 - Modify styles in `etchASketch.css` for a different look.
 
-## Example
-![Screenshot](screenshot.png) <!-- Add a screenshot if available -->
-
-## License
-MIT
